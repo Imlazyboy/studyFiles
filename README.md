@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## 介绍
 一些高质量电子书资源分享   
 不可否认书籍尤其高质量书籍对于程序员的重要性，不管是学而时习之，还是温故而知新。   
@@ -54,4 +55,6 @@ ps:
 6. [guoruibiao](https://github.com/guoruibiao)
 7. [xuqiang521](https://github.com/xuqiang521)
 
+=======
+>>>>>>> e50c44b0daeabc6e103a4eeb3be8763891a75108
 
